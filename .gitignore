@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Production output
+dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor and OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# TypeScript and Vite caches
+*.tsbuildinfo
+node_modules/.tmp/
+
+# Vercel local settings
+.vercel/

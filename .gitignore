@@ -26,3 +26,5 @@ node_modules/.tmp/
 
 # Vercel local settings
 .vercel/
+
+.vercel
